@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Replay Specs",
+        "pages": {
+            "/": "Introduction",
+            "/overview": "Overview"
+        }
+    },
+    {
+        "title": "Resources",
+        "pages": {
+            "/resources/replay-configuration": "Replay Configuration",
+            "/resources/replay-data": "Replay Data"
+        }
+    },
+    {
+        "title": "Misc",
+        "pages": {
+            "/misc/gameplay-result": "GameplayResult"
+        }
+    }
+]
