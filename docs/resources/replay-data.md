@@ -38,7 +38,7 @@ type ReplayData = {
         t: number[]
         x: number[]
         y: number[]
-    }[]
+    }
 }
 ```
 
